@@ -7,4 +7,5 @@
 * C'est pour ça qu'aujourd'hui on va voir comment poser une question en français et si tu n'es toujour pas encore abonné, qu'est ce que tu attends? Abonne-toi pour apprendre le français.
 * On commence.
 
-* Alors  
+* Bon alors, en fait en français, mais comme d'en d'autres langages. Il y a 2 types de questions: les questions auxquelles on peut répondre tout simplement par oui ou non, et les questions auxquelles on ne peut pas répondre par oui ou non.
+* Donc on va commencer par ce premier grand groupe des questions, ou on répond par oui ou non. 
