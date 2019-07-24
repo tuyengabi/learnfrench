@@ -1,4 +1,4 @@
-#POSER DES QUESTIONS EN FRANÇAIS
+POSER DES QUESTIONS EN FRANÇAIS
 -----------------
 
 * Alors pourquoi en français, il faut que ce soit toujour compliqué. Il y a tellement de façons de poser une question, une simple question.
