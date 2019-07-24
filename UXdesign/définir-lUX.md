@@ -17,5 +17,12 @@
 
 ### L'UX est liée à l'émotion
 
-* Un des exemples les plus importants d'expérience utilisateur  
+* Un des exemples les plus importants d'expérience utilisateur: utilisateur qui a marqué les utilisateurs, c'est l'example du plan de métro.
+* Originellement, le plan de métro était une carte qui était dessinée, calquée sur la disposition des stations de métro par rapport à la ville géographiquement.
+* C'était très fidèle à la réalité.
+* Harry Beck, qui travaillait à l'époque dans l'entreprise de transport de Londres, trouvait c'était pas practique parce qu'un utilisatuer a besoin de prévoir des itinéraires de façon rapide et simple.
+* Il a designé un nouveau plan, il l'a proposé à ses collaborateurs qui ont trouvé ça un peu bizarre, mais l'ont quand même proposé, montré à quelques personnes
+* Immédiatement apprécié, ce plan a été proposé aux utilisateurs du métro de Londres, et il a été adopté à l'unanimité.
+* Aujourd'hui toutes les grandes agglomérations du monde entier qui ont des métro, des lignes de bus ou de tram, on suivi ce mouvement.
+* C'est un design révolutionnaire.
 
