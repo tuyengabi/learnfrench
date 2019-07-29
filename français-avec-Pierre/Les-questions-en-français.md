@@ -9,3 +9,9 @@ POSER DES QUESTIONS EN FRANÇAIS
 
 * Bon alors, en fait en français, mais comme d'en d'autres langages. Il y a 2 types de questions: les questions auxquelles on peut répondre tout simplement par oui ou non, et les questions auxquelles on ne peut pas répondre par oui ou non.
 * Donc on va commencer par ce premier grand groupe des questions, ou on répond par oui ou non. 
+* Alors la première façon de poser une question, c'est juste en changeant le ton, l'intonation d'une phrase affirmative.
+* Oui! Par example, on va dire la phrase affirmative, ce sera: Tu vas à la plage, ça a tendance à baisser à la fin.
+* Et quand on pose la question en fait, c'est : Tu vas à la plage? 
+* Et ça monte, voilà , ça monte à la fin.
+* Bon, il peut y avoir quelque variant: Tu vas à la plage? Mais ça a tendance monter à la fin.
+* Et donc on va répondre par oui ou non. Oui, je vais à la plage. Non, je ne vais pas à la plage.
